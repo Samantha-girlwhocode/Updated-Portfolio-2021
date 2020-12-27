@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Downloads/the_historia"
+		},
+		{
+			"path": "../../Downloads/webfontkit-20201125-144632"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Portfolio Website"
+	}
+}
